@@ -1,0 +1,37 @@
+#foto{
+    width: 200px;
+    height: 150px;
+    border-radius: 60%;
+    margin: 0 0 0 50px;
+}
+#sub1{
+    width: 30%;
+}
+#sub2{
+    color: #bc1a07;
+}
+#sub1,sub2{
+    display: inline-block;
+}
+#puesto{
+    margin-left: 50px;
+}
+body{
+    background: #e8f0ff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 20px;
+}
+.titulo{
+    color: #007bff;
+    font-size: 24px;
+    font-weight: bold;
+}.habilidades{
+    color: #ff7455;
+}
+#contenido2{
+    margin: 00010%;
+}
+hr{
+    border: 0.5px solid #f8e8e8;
+}
